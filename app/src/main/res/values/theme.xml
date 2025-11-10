@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Thème principal de l’app -->
+    <style name="Theme.MoodTracker" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Couleur de base -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <!-- ✅ Thème du splash screen -->
+    <style name="Theme.MoodTracker.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash</item>
+        <item name="postSplashScreenTheme">@style/Theme.MoodTracker</item>
+    </style>
+
+</resources>
