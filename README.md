@@ -1,4 +1,4 @@
-# 🎨 MoodTracker (Unfinished Version)
+# MoodTracker (Unfinished Version)
 
 ## About the Project
 This is an **unfinished version** of the *MoodTracker* Android app developed for the **UX/UI for Mobile** course project.  
