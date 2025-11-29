@@ -19,7 +19,8 @@ enum class MoodType(
     Tired("Tired", "🫩", Color(0xFF64B5F6), Color.Black),
     Nostalgia("Nostalgia", "😕", Color(0xFFD9D9D9), Color.Black),
     Envy("Envy", "🥺", Color(0xFFA4E5E0), Color.Black),
-    Bored("Bored", "🥱", Color(0xFF3E2723), Color.White);
+    Bored("Bored", "🥱", Color(0xFF3E2723), Color.White),
+    Compassionate("Compassionate", "🤗", Color(0xFF4081FA), Color.White);
 }
 
 // Set of Material typography styles to start with
